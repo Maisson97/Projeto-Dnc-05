@@ -1,0 +1,187 @@
+/* BOTÕES CARDS */
+article{
+    height: 100%;
+    min-height: 400px;
+    max-height: 500px;
+}
+#card1 button{
+    display: none;
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 202px;
+    height: 45px;
+    left: 48px;
+    top: 340px;
+
+    background: #2A3342;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 100% */
+
+
+    color: #F6F5FB;
+}
+#card2 button{
+    display: none;
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 202px;
+    height: 45px;
+    left: 48px;
+    top: 340px;
+
+    background: #2A3342;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 100% */
+
+
+    color: #F6F5FB;
+}
+#card3 button{
+    display: none;
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 202px;
+    height: 45px;
+    left: 48px;
+    top: 340px;
+
+    background: #2A3342;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 100% */
+
+
+    color: #F6F5FB;
+}
+#card4 button{
+    display: none;
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 202px;
+    height: 45px;
+    left: 48px;
+    top: 340px;
+
+    background: #2A3342;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 100% */
+
+
+    color: #F6F5FB;
+}
+
+
+/* POP-UP ATENDIMENTO */
+#pop-upSec{
+    display: none;
+
+    position: absolute;
+    width: 126.9%;
+    height: 148%;
+    left: -363px;
+    top: -164px;
+
+    background: rgba(217, 217, 217, 0.7);
+}
+#pop-upTerc{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+
+
+    position: absolute;
+    width: 25%;
+    height: 40%;
+    left: 827px;
+    top: 35%;
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+#pop-upTerc h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 39px;
+    line-height: 20px;
+    /* text-align: center; */
+    /* identical to box height, or 51% */
+    
+    
+    color: #000000;
+}
+#pop-upTerc p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 23px;
+    line-height: 40px;
+    /* or 174% */
+
+    /* text-align: center; */
+
+    color: #000000;
+}
+#pop-upTerc button{
+    background: #2A3342;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 45px;
+
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 100% */
+
+
+    color: #F6F5FB;
+}
+#x{
+    position: relative;
+    left: 45%;
+    font-size: 25px;
+    bottom: 5%;
+
+
+    cursor: pointer;
+}
